@@ -124,7 +124,7 @@ a:hover {
 .hi::after {
     content: "Hi there!";
     background: linear-gradient(to right, #558821, rgb(13, 140, 132));
-    width: 450px;
+    width:inherit;
     height: 100px;
     padding: 1%;
     border-radius: 2rem;
